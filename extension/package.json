@@ -1,0 +1,9 @@
+{
+	"name": "vscode-drag-test-extension",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.74.0"
+	},
+	"main": "./extension.js",
+	"activationEvents": ["onStartupFinished"]
+}
